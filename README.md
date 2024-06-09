@@ -1,7 +1,8 @@
 # Hands-on Lab: React Application
 
 ```
-In this hands-on lab, you'll learn to create HTML pages and React applications.
+Practice Exercise to set the props from outside and maintain the state of the component inside.
+The state being retrieved from an asynchronous method call.
 
 Learning Objectives:
 
